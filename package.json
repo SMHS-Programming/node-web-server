@@ -1,0 +1,9 @@
+{
+  "name": "SimpleWebServer",
+  "author": "smhs programming",
+  "version": "0.1.0",
+  "description": "a basic node web server",
+  "dependencies": {
+    "express" : "*"
+  }
+}
